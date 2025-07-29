@@ -1,1 +1,1 @@
-1 Simple counter application proje
+1 Simple counter application projec
