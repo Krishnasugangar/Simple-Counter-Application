@@ -1,1 +1,1 @@
- Simple counter applicat
+ Simple counter applicati
