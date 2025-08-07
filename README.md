@@ -1,1 +1,1 @@
- Simple counter applicatio
+ Simple 
