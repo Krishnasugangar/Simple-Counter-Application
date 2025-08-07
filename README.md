@@ -1,1 +1,1 @@
- Simple 
+ Simple counter application project
